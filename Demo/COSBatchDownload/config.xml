@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:config xmlns:ns2="com.qcloud.cosapi">
+    <AppID>10003421</AppID>
+    <secretID>AKIDLGvDdsE7YnjeSg7GRdaiuHy7rF0laYBR</secretID>
+    <secretKey>ik1ozSOu4hUDHzT7UBJntQtoUCveK2UN</secretKey>
+    <bucketName>duanzishou</bucketName>
+    <remotePath>/</remotePath>
+    <localPath>F://COS</localPath>
+</ns2:config>

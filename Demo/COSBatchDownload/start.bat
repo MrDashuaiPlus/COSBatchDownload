@@ -1,0 +1,1 @@
+cmd /k java -jar COSBatchDownload.jar
